@@ -17,9 +17,9 @@ divamakalalag@divamakalalag-virtualbox:$ mkdir Documents Archives
 divamakalalag@divamakalalag-virtualbox:$ cd Documeumen
 divamakalalag@divakakalalag-virtualbox-Documents:$ touch Marketing.docx
 divamakalalag@divamakalalag-virtualbox-Documents:$ cd ..
-divamakalalag-virtualbox:$cd Archives
-divamakalalag-virtualbox-Archives:$ touch TargetPasar_file.pdf
-divamakalalag-virtualbox-Archives:$cd ..
+divamakalalagdivamakalalag-virtualbox:$cd Archives
+divamakalalag@divamakalalag-virtualbox-Archives:$ touch TargetPasar_file.pdf
+divamakalalag@divamakalalag-virtualbox-Archives:$cd ..
 ```
 *`Penjelasan`.
 * `mkdir` → membuat folder baru.
